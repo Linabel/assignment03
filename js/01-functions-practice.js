@@ -9,6 +9,8 @@ function halfOf(window.prompt("Enter a number")) {
 halfOf(5);
 //STEP 2
 
+
+
 //STEP 3
 
 //STEP 4
